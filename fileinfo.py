@@ -1,1 +1,2 @@
 #hahahaaha 
+x = input() 
